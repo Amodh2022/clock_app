@@ -42,14 +42,5 @@ It's important to mention that the app's UI/UX was designed by me. I invested a 
 If you like it, please star the project⭐️
 It motivates me alot ❤️
 
-![1](docs/screenshots/img1.png) 
-![2](docs/screenshots/img2.png) 
-![3](docs/screenshots/img3.png) 
-![4](docs/screenshots/img4.png) 
-![5](docs/screenshots/img5.png) 
-![6](docs/screenshots/img6.png) 
-![7](docs/screenshots/img7.png) 
-![8](docs/screenshots/img8.png) 
-![9](docs/screenshots/img9.png) 
-![10](docs/screenshots/img10.png) 
+
 
